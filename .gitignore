@@ -3,5 +3,6 @@ Packages
 ProjectSettings
 Temp
 obj
-.vs
 _Developer
+UnityPackageManager
+.vs
